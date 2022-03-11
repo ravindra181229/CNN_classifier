@@ -1,1 +1,4 @@
 notebook
+tensorflow==2.0
+mlflow==1.24.0
+tqdm
